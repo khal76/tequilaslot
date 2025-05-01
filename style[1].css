@@ -1,0 +1,22 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0e5de;
+}
+
+.slot-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.reel {
+  width: 100px;
+  height: 100px;
+  margin: 0 10px;
+  background-color: #fff;
+  border: 2px solid #ccc;
+  background-size: cover;
+  background-position: center;
+}
